@@ -1,6 +1,5 @@
 Welcome
 =======
 
-
-[ ] This is a task 
-[ ] This is another task.
+[ ] This is a task
+[X] This is another task.
